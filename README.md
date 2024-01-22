@@ -14,6 +14,7 @@ Shitty Looking Licensing Site written by CHATGPT with Errors i didnt know how to
 ### General
 - **Semi Dark Theme:** The application has a dark-themed interface.
 - **Logout:** Users and admins can securely log out.
+- **Some Other Features i forgot to List**
 
 ## How to Use
 Database Configuration:
