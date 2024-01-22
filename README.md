@@ -1,5 +1,5 @@
 # license-site-php
-Shitty Looking Licensing Site written by CHATGPT with Errors
+Shitty Looking Licensing Site written by CHATGPT with Errors i didnt know how to Fix! Everything is OpenSource but Fork it if you Fix anything or Make any Fork Worthy Changes!
 
 
 ## Features
