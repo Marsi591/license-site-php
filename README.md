@@ -1,9 +1,6 @@
 # license-site-php
 Shitty Looking Licensing Site written by CHATGPT with Errors
 
-# Licensing Site
-
-Welcome to the Licensing Site project! This web application allows users to register with a license key, manage changelogs, download the program, and view their account status. Admins can update changelogs, manage the status and download link, and generate license keys.
 
 ## Features
 
